@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SuperNM-GUI
+Comment=Custom Network Manager GUI with Wi-Fi, Bluetooth, Sound, and Brightness
+Exec=python3 ~/SuperNM-GUI/SuperNM-gui.py
+Icon=network-wireless
+Terminal=false
+Type=Application
+Categories=Network;Utility;
+StartupNotify=true
